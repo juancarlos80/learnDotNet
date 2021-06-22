@@ -1,0 +1,16 @@
+L:\DotNet\learnDotNet\ConsoleTopLevel\ConsoleTopLevel\bin\Debug\net5.0\ConsoleTopLevel.exe
+L:\DotNet\learnDotNet\ConsoleTopLevel\ConsoleTopLevel\bin\Debug\net5.0\ConsoleTopLevel.deps.json
+L:\DotNet\learnDotNet\ConsoleTopLevel\ConsoleTopLevel\bin\Debug\net5.0\ConsoleTopLevel.runtimeconfig.json
+L:\DotNet\learnDotNet\ConsoleTopLevel\ConsoleTopLevel\bin\Debug\net5.0\ConsoleTopLevel.runtimeconfig.dev.json
+L:\DotNet\learnDotNet\ConsoleTopLevel\ConsoleTopLevel\bin\Debug\net5.0\ConsoleTopLevel.dll
+L:\DotNet\learnDotNet\ConsoleTopLevel\ConsoleTopLevel\bin\Debug\net5.0\ref\ConsoleTopLevel.dll
+L:\DotNet\learnDotNet\ConsoleTopLevel\ConsoleTopLevel\bin\Debug\net5.0\ConsoleTopLevel.pdb
+L:\DotNet\learnDotNet\ConsoleTopLevel\ConsoleTopLevel\obj\Debug\net5.0\ConsoleTopLevel.csproj.AssemblyReference.cache
+L:\DotNet\learnDotNet\ConsoleTopLevel\ConsoleTopLevel\obj\Debug\net5.0\ConsoleTopLevel.GeneratedMSBuildEditorConfig.editorconfig
+L:\DotNet\learnDotNet\ConsoleTopLevel\ConsoleTopLevel\obj\Debug\net5.0\ConsoleTopLevel.AssemblyInfoInputs.cache
+L:\DotNet\learnDotNet\ConsoleTopLevel\ConsoleTopLevel\obj\Debug\net5.0\ConsoleTopLevel.AssemblyInfo.cs
+L:\DotNet\learnDotNet\ConsoleTopLevel\ConsoleTopLevel\obj\Debug\net5.0\ConsoleTopLevel.csproj.CoreCompileInputs.cache
+L:\DotNet\learnDotNet\ConsoleTopLevel\ConsoleTopLevel\obj\Debug\net5.0\ConsoleTopLevel.dll
+L:\DotNet\learnDotNet\ConsoleTopLevel\ConsoleTopLevel\obj\Debug\net5.0\ref\ConsoleTopLevel.dll
+L:\DotNet\learnDotNet\ConsoleTopLevel\ConsoleTopLevel\obj\Debug\net5.0\ConsoleTopLevel.pdb
+L:\DotNet\learnDotNet\ConsoleTopLevel\ConsoleTopLevel\obj\Debug\net5.0\ConsoleTopLevel.genruntimeconfig.cache
