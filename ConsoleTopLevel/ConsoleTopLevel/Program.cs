@@ -32,3 +32,10 @@ string russianMessage = "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\
 
 Console.WriteLine($"View English output:\n\t\tc:\\Exercise\\{projectName}\\data.txt\n");
 Console.WriteLine(russianMessage + ":\n\t\tc:\\Exercise\\{projectName}\\ru-RU\\data.txt\n");
+
+
+//Math operator
+int farenheith = 94;
+
+decimal celcius = (farenheith - 32) * (5m / 9);
+Console.WriteLine($"Temperature in celcius is: {celcius}");
